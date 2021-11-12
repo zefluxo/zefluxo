@@ -24,7 +24,8 @@
   <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a">
   
 </p>
-### 📈 Github Stats
+
+#### 📈 Github Stats
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PogfLux&count_private=true&theme=dark&show_icons=true&hide_border=true" />
