@@ -6,7 +6,7 @@
 
 ### Playing
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=flux1337&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=flux1337&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=flux1337&redirect=true)
 
 #### :wrench: Languages and tools 
 
