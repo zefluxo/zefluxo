@@ -4,6 +4,10 @@
 :computer: MSc in Informatics and Computing Engineering (year 2/5) [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br />
 :telescope: I’m currently working on personal projects and always looking for new opportunities <br />
 
+### Playing
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=flux1337&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+
 #### :wrench: Languages and tools 
 
 <p>
