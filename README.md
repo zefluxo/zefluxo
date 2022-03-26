@@ -14,7 +14,7 @@
   
   <!--- OS ---> 
   <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=GNU-ZSH&logoColor=white&color=2bbc8a">
+  <img src="https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=GNU-ZSH&logoColor=white&color=2bbc8a">
     
   <!--- Tools --->   
   <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a">
