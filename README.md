@@ -35,8 +35,8 @@
 #### 📈 Github Stats
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PogfLux&count_private=true&theme=dark&show_icons=true&hide_border=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PogfLux&theme=dark&show_icons=true&layout=compact&hide_border=true& exclude_repo=github-readme-stats,anuraghazra.github.io" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zefluxo&count_private=true&theme=dark&show_icons=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zefluxo&theme=dark&show_icons=true&layout=compact&hide_border=true& exclude_repo=github-readme-stats,anuraghazra.github.io" />
 </div>
 
 PS: I stole this from [@Naapperas](https://github.com/Naapperas), but he stole it from someone else too so...
