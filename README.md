@@ -1,11 +1,14 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## hi there
 
-<!--- Brief description ---> 
-:computer: MSc in Informatics and Computing Engineering (year 3/5) [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br />
+### about me
+age: 21 <br>
+pronouns: he/him <br>
+studying: currently in my 3rd year of CompSci [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br>
+interested in: music, low-level programming, videogames, cinema and other types of art
 
 ### currently playing
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=flux1337&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=flux1337&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=flux1337&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=flux1337&redirect=true)
 
 #### :wrench: languages and tools 
 
@@ -31,14 +34,7 @@
   
 </p>
 
-#### 📈 github stats
-
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zefluxo&count_private=true&theme=dark&show_icons=true&hide_border=true" />
-</div>
-
-<br>
-
-[![top-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zefluxo&layout=compact&langs_count=8&theme=dark)](https://github.com/zefluxo/zefluxo)
-
-PS: stole this from [@Naapperas](https://github.com/Naapperas), but he stole it from someone else too so...
+#### 📈 stats
+| github | languages |
+|--------|---------------|
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=zefluxo&count_private=true&theme=dark&show_icons=true&hide_border=true" />|[![top-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zefluxo&layout=compact&langs_count=8&theme=dark)](https://github.com/zefluxo/zefluxo)|
