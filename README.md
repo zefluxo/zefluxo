@@ -3,7 +3,7 @@
 ### about me
 age: 21 <br>
 pronouns: he/him <br>
-studying: currently in my 3rd year of CompSci [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br>
+studying: currently in my 4th year of CompSci [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br>
 interested in: music, low-level programming, videogames, cinema and other types of art
 
 ### currently playing
