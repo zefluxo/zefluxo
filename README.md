@@ -6,9 +6,8 @@ pronouns: he/him <br>
 studying: currently in my 4th year of CompSci [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br>
 interested in: music, low-level programming, videogames, cinema and other types of art
 
-### currently playing (i changed to tidal so this is sorta irrelevant)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=flux1337&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=flux1337&redirect=true)
+### currently playing
+![alt text](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=PogfLux&theme=dimmed&show_scrobbles=true)
 
 #### :wrench: languages and tools 
 
