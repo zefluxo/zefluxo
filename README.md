@@ -1,7 +1,7 @@
 ## hi there
 
 ### about me
-age: 22 <br>
+age: 23 <br>
 pronouns: he/him <br>
 studying: currently in my 2nd year of masters in informatics and computing engineering [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br>
 interested in: music, low-level programming, videogames, cinema and other types of art
