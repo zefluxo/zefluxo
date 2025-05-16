@@ -4,7 +4,7 @@
 age: 23 <br>
 pronouns: he/him <br>
 studying: currently in my 2nd year of masters in informatics and computing engineering [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br>
-interested in: music, low-level programming, videogames, cinema and other types of art
+interested in: music, low-level programming, videogames, cinema and art in any shape or form
 
 ![last_fm](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=PogfLux&theme=dimmed&show_scrobbles=true)
 
